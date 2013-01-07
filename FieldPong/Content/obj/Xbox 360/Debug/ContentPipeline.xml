@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\blank.xnb</Output>
+      <Time>2007-04-23T18:21:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\gradient.xnb</Output>
+      <Time>2007-04-23T18:21:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menuFont.bmp</Source>
+      <Name>menuFont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\menuFont.xnb</Output>
+      <Time>2007-05-03T16:26:32.5625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\ball.xnb</Output>
+      <Time>2008-01-20T12:58:41.4881571-06:00</Time>
+    </Item>
+    <Item>
+      <Source>logo.png</Source>
+      <Name>logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\logo.xnb</Output>
+      <Time>2006-01-14T19:54:49.0625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>paddle.png</Source>
+      <Name>paddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\paddle.xnb</Output>
+      <Time>2007-08-07T18:49:09.609454-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GravityBall.png</Source>
+      <Name>GravityBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\GravityBall.xnb</Output>
+      <Time>2008-01-20T14:52:56.9702026-06:00</Time>
+    </Item>
+    <Item>
+      <Source>obstacle.png</Source>
+      <Name>obstacle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\obstacle.xnb</Output>
+      <Time>2008-01-29T18:00:26.9842178-06:00</Time>
+    </Item>
+    <Item>
+      <Source>paddle2.png</Source>
+      <Name>paddle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\paddle2.xnb</Output>
+      <Time>2008-01-23T17:26:34.875-06:00</Time>
+    </Item>
+    <Item>
+      <Source>go.png</Source>
+      <Name>go</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\go.xnb</Output>
+      <Time>2008-01-27T11:14:07.265625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ready.png</Source>
+      <Name>ready</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\ready.xnb</Output>
+      <Time>2008-01-27T11:13:22.9375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>set.png</Source>
+      <Name>set</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\set.xnb</Output>
+      <Time>2008-01-27T11:13:39.140625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>projectile.png</Source>
+      <Name>projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\projectile.xnb</Output>
+      <Time>2008-01-27T17:18:10.4286513-06:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomCombine.fx</Source>
+      <Name>BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\BloomCombine.xnb</Output>
+      <Time>2007-08-04T12:22:52.2643085-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomExtract.fx</Source>
+      <Name>BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\BloomExtract.xnb</Output>
+      <Time>2007-08-04T11:23:27.415325-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GaussianBlur.fx</Source>
+      <Name>GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\GaussianBlur.xnb</Output>
+      <Time>2007-08-04T12:23:18.7196465-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>E:\FieldPong\FieldPong\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\FieldPong\FieldPong\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\FieldPong\FieldPong\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\FieldPong\FieldPong\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T12:08:00-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T12:08:42-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T12:08:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T12:07:44-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-07-25T20:52:06.342875-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

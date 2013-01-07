@@ -1,0 +1,150 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{068FA611-495B-4427-B8F2-116E0D0C20F5}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FieldPong</RootNamespace>
+    <AssemblyName>FieldPong</AssemblyName>
+    <XnaFrameworkVersion>v2.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
+    <XnaCrossPlatformGroupID>{21ef0549-7072-4cbd-b4e2-6636986da542}</XnaCrossPlatformGroupID>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FarseerGames.FarseerPhysics, Version=1.0.0.2, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\FarseerGames.FarseerPhysics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Game Screen Manager\GameScreen.cs">
+      <Name>GameScreen</Name>
+    </Compile>
+    <Compile Include="Game Screen Manager\InputState.cs" />
+    <Compile Include="Game Screen Manager\LoadingScreen.cs" />
+    <Compile Include="Game Screen Manager\MenuScreen.cs">
+      <Name>MenuScreen</Name>
+    </Compile>
+    <Compile Include="Game Screen Manager\MessageBoxScreen.cs">
+      <Name>MessageBoxScreen</Name>
+    </Compile>
+    <Compile Include="Game Screens\GameOverScreen.cs" />
+    <Compile Include="Game Screens\MainMenuScreen.cs" />
+    <Compile Include="Game\AIPaddleController.cs" />
+    <Compile Include="Game\DieUponCollisionBehavior.cs" />
+    <Compile Include="Game\InteractWithBlackHolesBehavior.cs" />
+    <Compile Include="Graphics\ScreenManager.cs">
+      <Name>ScreenManager</Name>
+    </Compile>
+    <Compile Include="Game Screens\GameplayScreen.cs">
+      <Name>GameplayScreen</Name>
+    </Compile>
+    <Compile Include="Game\Actor.cs">
+      <Name>Actor</Name>
+    </Compile>
+    <Compile Include="Game\ActorManager.cs">
+      <Name>ActorManager</Name>
+    </Compile>
+    <Compile Include="Game\BlackHoleBehavior.cs" />
+    <Compile Include="Game\ConstrainToRectangleBehavior.cs" />
+    <Compile Include="Game\DistortGridBehavior.cs" />
+    <Compile Include="Game\GamePadPaddleController.cs" />
+    <Compile Include="Game\LightningBox.cs" />
+    <Compile Include="Game\LiveTemporarilyBehavior.cs" />
+    <Compile Include="Game\MassSpringGrid.cs">
+      <Name>MassSpringGrid</Name>
+    </Compile>
+    <Compile Include="Game\PaddleController.cs" />
+    <Compile Include="Game\ShootOffRandomlyBehavior.cs" />
+    <Compile Include="Graphics\BloomPostProcessor.cs">
+      <Name>BloomPostProcessor</Name>
+    </Compile>
+    <Compile Include="Graphics\BloomSettings.cs">
+      <Name>BloomSettings</Name>
+    </Compile>
+    <Compile Include="Graphics\FrameRateCounter.cs">
+      <Name>FrameRateCounter</Name>
+    </Compile>
+    <Compile Include="Graphics\LineBatch.cs">
+      <Name>LineBatch</Name>
+    </Compile>
+    <Compile Include="Graphics\Sprite.cs" />
+    <Compile Include="Graphics\Starfield.cs">
+      <Name>Starfield</Name>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs">
+    </Compile>
+    <Compile Include="FieldPong.cs">
+      <Name>FieldPong</Name>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico">
+      <Name>Game</Name>
+    </Content>
+    <Content Include="GameThumbnail.png">
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <NestedContentProject Include="Content\Content.contentproj">
+      <Project>{a284c8ba-1735-49ef-bd07-32e50e0ecfab}</Project>
+      <Visible>False</Visible>
+    </NestedContentProject>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\v2.0\Microsoft.Xna.GameStudio.Common.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\v2.0\Microsoft.Xna.GameStudio.NestedContent.targets" />
+</Project>

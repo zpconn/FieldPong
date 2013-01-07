@@ -1,0 +1,3 @@
+obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\Xbox 360\Debug\FieldPong.obj.Xbox_360.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt

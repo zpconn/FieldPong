@@ -1,0 +1,54 @@
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\blank.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\gradient.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\menuFont.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\ball.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\logo.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\paddle.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\GravityBall.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\obstacle.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\BloomCombine.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\BloomExtract.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\GaussianBlur.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\FieldPong.exe
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\FieldPong.pdb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\FarseerGames.FarseerPhysics.dll
+E:\Code\Projects\FieldPong\FieldPong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Code\Projects\FieldPong\FieldPong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Code\Projects\FieldPong\FieldPong\obj\x86\Debug\FieldPong.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Code\Projects\FieldPong\FieldPong\obj\x86\Debug\FieldPong.exe
+E:\Code\Projects\FieldPong\FieldPong\obj\x86\Debug\FieldPong.pdb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\paddle2.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\go.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\ready.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\set.xnb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\Audio\FieldPongAudio.xgs
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+E:\Code\Projects\FieldPong\FieldPong\bin\x86\Debug\Content\projectile.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\blank.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\gradient.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\menuFont.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\ball.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\logo.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\paddle.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\GravityBall.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\obstacle.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\paddle2.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\go.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\ready.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\set.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\projectile.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\BloomCombine.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\BloomExtract.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\GaussianBlur.xnb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\Audio\FieldPongAudio.xgs
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+E:\FieldPong\FieldPong\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+E:\FieldPong\FieldPong\bin\x86\Debug\FieldPong.exe
+E:\FieldPong\FieldPong\bin\x86\Debug\FieldPong.pdb
+E:\FieldPong\FieldPong\bin\x86\Debug\FarseerGames.FarseerPhysics.dll
+E:\FieldPong\FieldPong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FieldPong\FieldPong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\FieldPong\FieldPong\obj\x86\Debug\FieldPong.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\FieldPong\FieldPong\obj\x86\Debug\FieldPong.exe
+E:\FieldPong\FieldPong\obj\x86\Debug\FieldPong.pdb

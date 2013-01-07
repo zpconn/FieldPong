@@ -1,0 +1,8 @@
+E:\Code\Projects\FieldPong\FieldPong\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+E:\Code\Projects\FieldPong\FieldPong\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Code\Projects\FieldPong\FieldPong\Content\obj\Xbox 360\Debug\Audio\FieldPongAudio.xml
+E:\Code\Projects\FieldPong\FieldPong\Content\obj\x86\Debug\Audio\FieldPongAudio.xml
+E:\FieldPong\FieldPong\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FieldPong\FieldPong\Content\obj\x86\Debug\Audio\FieldPongAudio.xml
+E:\FieldPong\FieldPong\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+E:\FieldPong\FieldPong\Content\obj\Xbox 360\Debug\Audio\FieldPongAudio.xml
